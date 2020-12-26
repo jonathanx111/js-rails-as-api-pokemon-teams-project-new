@@ -135,6 +135,8 @@ trainers_name = [
   'Ashley'
 ]
 
+
+
 trainer_collection = []
 
 trainers_name.each do |name|
